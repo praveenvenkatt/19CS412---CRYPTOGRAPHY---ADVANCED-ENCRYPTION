@@ -244,8 +244,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-
-<img width="342" alt="image" src="https://github.com/AlluguriSrikrishnateja/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/118343892/a3f5b0fa-ef81-4215-9521-2a16c87cef68">
+![image](https://github.com/praveenvenkatt/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/119560117/7b7326e7-aa20-4d4c-9c33-37d09f21f291)
 
 
 ## RESULT: 
